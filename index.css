@@ -8,8 +8,8 @@
   scroll-behavior: smooth;
 }
 :root{
-    --primary-color:#9d82ff;
-    --pink-color:hsl(315, 81%, 43%);
+    --primary-color:#ff8282;
+    --pink-color:hsl(0, 81%, 43%);
     --white-color:#ffffff;
 
 }
