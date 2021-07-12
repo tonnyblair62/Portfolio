@@ -297,3 +297,36 @@ section .button button:hover{
  color:var(--white-color);
  transition: all 0.4s ease;
 }
+/* Contact Me CSS */
+.contact{
+  background: #f0f8ff;
+}
+.contact .content{
+  margin:0 auto;
+  padding:30px 0;
+}
+.contact .text{
+  width:80%;
+  text-align: center;
+  margin:auto;
+}
+
+/* Footer CSS */
+footer{
+  background:var(--primary-color);
+  padding:15px 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+footer .text span{
+  font-size: 17px;
+  font-weight: 400;
+  color:var(--white-color);
+}
+footer .text span a{
+  font-weight: 500;
+  color:var(--white-color);
+}
+footer .text span a:hover{
+  text-decoration: underline;
+}
